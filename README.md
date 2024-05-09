@@ -27,32 +27,32 @@ NAME:AADHEESHWAR A
 REG NO: 212221230001
 ```
 ## WHOIS:
-![image](https://github.com/karthika28112004/InformationGathering/assets/128035087/6a2bddf0-dbc8-4583-a180-b605d1f3eba6)
+![image](1.png)
 
 
 ## IP2LOCATION:
-![image](https://github.com/karthika28112004/InformationGathering/assets/128035087/4fc445fd-f1cc-4c67-9c4c-faa5d0362a82)
+![image](2.png)
 
 ## PING:
-![image](https://github.com/karthika28112004/InformationGathering/assets/128035087/ee77a67a-8f1a-4055-8934-3ba505e83730)
+![image](3.png)
 
 
 ## WEB ARCHIVE:
-![image](https://github.com/karthika28112004/InformationGathering/assets/128035087/cf796219-383f-4809-9198-bcf1d883ad91)
+![image](4.png)
 
 ## NMAP:
-![image](https://github.com/karthika28112004/InformationGathering/assets/128035087/b7bc95fc-bcc2-4566-8502-16bfdb682e95)
+![image](5.png)
 
 
 ## WHATWEB:
-![image](https://github.com/karthika28112004/InformationGathering/assets/128035087/48b4d1d5-67ce-4d67-bf1b-d17945190f93)
+![image](6.png)
 
 
 
 
 ## TRACEROUTE:
 
-![image](https://github.com/karthika28112004/InformationGathering/assets/128035087/6828a960-1537-4ade-97a0-c22ab4f79ae1)
+![image](7.png)
 
 
 
